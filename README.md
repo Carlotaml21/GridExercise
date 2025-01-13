@@ -3,7 +3,7 @@
 This project demonstrates the usage of **CSS Grid Layout** to create a responsive grid with images and text elements. The layout is designed using grid areas, and the project is hosted live on **GitHub Pages**.
 
 ## Live Demo
-You can view the live project here:
+You can view the live project here: https://carlotaml21.github.io/GridExercise/
 
 ---
 
